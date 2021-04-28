@@ -15,5 +15,5 @@ Finally, with the database, the user can choose some application capabilities to
  - MovieRecommend.sqlite: a sample database (this is not required for running the main function) 
 
 ## keys for OMDb API:
-the api is contained in the code in the final_project_jiahongx.py line 19. 
+the api key is contained in the code in the final_project_jiahongx.py line 19. 
 
