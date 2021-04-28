@@ -13,3 +13,7 @@ Finally, with the database, the user can choose some application capabilities to
  - final_project_jiahongx.py: main function file
  - cache.json: a cache file
  - MovieRecommend.sqlite: a sample database (this is not required for running the main function) 
+
+## keys for OMDb API:
+the api is contained in the code in the final_project_jiahongx.py line 19. 
+
